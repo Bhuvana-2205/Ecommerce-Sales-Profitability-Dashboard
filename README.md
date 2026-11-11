@@ -37,7 +37,7 @@ The dashboard helps users identify business trends and gain meaningful insights 
 - Regional Sales Performance Map
 - Interactive Year, Region, Category, and Customer Segment slicers
 - Colorful and professional single-page dashboard design
-- <img width="1203" height="677" alt="Ecommerce-Sales-Profitability" src="https://github.com/user-attachments/assets/1289f033-2e7e-4618-8d65-6b694114ca7a" />
+- <img width="1203" height="677" alt="Ecommerce-Sales-Profitability" src="https://github.com/user-attachments/assets/b539a53a-c374-44ff-a988-cc0412342c5f" />
 
 
 ## 📂 Dataset
